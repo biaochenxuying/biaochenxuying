@@ -13,9 +13,18 @@
 
 - 🍓 前端导航：https://www.kwgg2020.com/
 
+- 🍉 个人微信：[CB834301747 (夜尽天明)](./images/CB834301747.jpeg)
+
 - 🍉 公众号：[[全栈修炼](https://github.com/biaochenxuying/blog/blob/master/%E5%85%A8%E6%A0%88%E4%BF%AE%E7%82%BC.png)] . [[前端GitHub](https://github.com/FrontEndGitHub/FrontEndGitHub/blob/main/images/FrontEndGitHub.png)]
 
-- 🍉 个人微信：[CB834301747 (夜尽天明)](./images/CB834301747.jpeg)
+- 🍓 关注上面公众号，回复「电子书」领取 **160+** 本 7 分以上的前端精读电子书；
+
+- 🍓 回复「1024」领取 2048G 关于 Vue、React、Node 等电商实战视频教程。
+
+<!-- | 微信: **CB834301747** | 公众号: **前端GitHub**  | 公众号: **全栈修炼**  |
+| :------: |  :------: | :------: |
+| <div align="center" style="margin-top: 20px;"> ![CB834301747](./images/CB834301747.jpeg) </div> | <div align="center"> ![FrontEndGitHub](./images/FrontEndGitHub.png) </div> | <div align="center"> ![FrontEndGitHub](./images/QuanZhanXiuLian.png) </div> | -->
+
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biaochenxuying&show_icons=true&show_owner=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
