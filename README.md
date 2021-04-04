@@ -17,9 +17,11 @@
 
 - 🍉 公众号：[[全栈修炼](https://github.com/biaochenxuying/blog/blob/master/%E5%85%A8%E6%A0%88%E4%BF%AE%E7%82%BC.png)] . [[前端GitHub](https://github.com/FrontEndGitHub/FrontEndGitHub/blob/main/images/FrontEndGitHub.png)]
 
-- 🍓 关注上面公众号，回复「电子书」领取 **160+** 本 7 分以上的前端精读电子书；
+- 🍓 关注上面公众号，回复「[**电子书**](/images/book.png)」领取 **300** 本技术精华书籍，**160+** 本 **7** 分以上的前端精读电子书
 
-- 🍓 回复「1024」领取 2048G 关于 Vue、React、Node 等电商实战视频教程。
+- 🍓 回复「[**1024**](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)」领取 2048G 关于 Vue、React、Node 等电商实战视频教程。
+
+- [以最优惠的方式购买极客时间课程](https://github.com/biaochenxuying/preferential-courses)，涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等
 
 <!-- | 微信: **CB834301747** | 公众号: **前端GitHub**  | 公众号: **全栈修炼**  |
 | :------: |  :------: | :------: |
@@ -37,6 +39,9 @@ PS： 欢迎大家关注我的公众号～
 <details>
 <summary>More Repositories ...</summary>
 
+<a href="https://github.com/biaochenxuying/preferential-courses">
+  <img alt="biaochenxuying" src="https://github-readme-stats.vercel.app/api/pin/?username=biaochenxuying&repo=preferential-courses&show_owner=true" />
+</a>
 <a href="https://github.com/biaochenxuying/blog-react-admin">
   <img alt="biaochenxuying" src="https://github-readme-stats.vercel.app/api/pin/?username=biaochenxuying&repo=blog-react-admin&show_owner=true" />
 </a>
