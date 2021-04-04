@@ -16,7 +16,7 @@
 
 - 🍓 前端导航：https://www.kwgg2020.com/
 
-- 🍓 以最优惠的方式购买极客时间课程: [涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等]((https://github.com/biaochenxuying/preferential-courses))
+- 🍓 以最优惠的方式购买极客时间课程: [涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等](https://github.com/biaochenxuying/preferential-courses)
 
 - 🍉 个人微信：[CB834301747 (夜尽天明)](./images/CB834301747.jpeg)
 
