@@ -20,12 +20,36 @@
 
 - 🍉 个人微信：[CB834301747 (夜尽天明)](./images/CB834301747.jpeg)
 
-- 🍉 公众号：[[全栈修炼](https://github.com/biaochenxuying/blog/blob/master/%E5%85%A8%E6%A0%88%E4%BF%AE%E7%82%BC.png)] . [[前端GitHub](https://github.com/FrontEndGitHub/FrontEndGitHub/blob/main/images/FrontEndGitHub.png)]
+- 🍉 公众号：[[全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-50b85ba33dd7ba90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)] . [[前端GitHub](https://github.com/FrontEndGitHub/FrontEndGitHub/blob/main/images/FrontEndGitHub.png)]
 
-- 🍓 关注上面公众号，回复「[**电子书**](/images/book.png)」领取 **300** 本技术精华书籍，**160+** 本 **7** 分以上的前端精读电子书
+- 🍓 关注上面公众号，回复「[**电子书**]([/images/book.png](https://upload-images.jianshu.io/upload_images/12890819-860e00b3a4b6c418.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240))」领取 **1000+** 本技术精华书籍，**160+** 本 **7** 分以上的前端精读电子书
 
 - 🍓 回复「[**1024**](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)」领取 2048G 关于 Vue、React、Node 等电商实战视频教程。
-  
+
+
+## 主笔
+
+<details>
+<summary>全栈修炼 和 前端GitHub</summary>
+
+| 公众号: **全栈修炼** | 公众号: **前端GitHub**  |
+| :------: |  :------: |
+| <div align="center"> ![](https://upload-images.jianshu.io/upload_images/12890819-50b85ba33dd7ba90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) </div> | <div align="center"> ![FrontEndGitHub](./images/FrontEndGitHub.png) </div> |
+
+</details>
+
+
+<details>
+<summary>1000+电子书 和 前端实战视频教程 免费领取...</summary>
+
+> 欢迎关注微信公众号 “**[前端GitHub](https://upload-images.jianshu.io/upload_images/12890819-9a13b43f4feb8f84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)**”，回复 **电子书** 就送你 **1000+** 本精华编程电子书；回复 **1024** 送你一套完整的 **前端** 视频教程。
+
+
+![](https://upload-images.jianshu.io/upload_images/12890819-860e00b3a4b6c418.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+有需要的就来拿吧，**绝对免费，无套路获取**。
+
+</details>
 
 <!-- | 微信: **CB834301747** | 公众号: **前端GitHub**  | 公众号: **全栈修炼**  |
 | :------: |  :------: | :------: |
