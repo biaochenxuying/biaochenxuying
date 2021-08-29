@@ -1,5 +1,5 @@
 
-## 哎呀！我是夜尽天明，被发现了 👋✌️ 
+<!-- ## 哎呀！我是夜尽天明，被发现了 👋✌️  -->
 
 <!-- ![夜尽天明](https://upload-images.jianshu.io/upload_images/12890819-6e2289f29c0d3b39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  -->
 
@@ -10,24 +10,25 @@
 
 - 🍓 个人博客：https://github.com/biaochenxuying/blog
 
-- 🍓 个人网站：https://biaochenxuying.cn/
+<!-- - 🍓 个人网站：https://biaochenxuying.cn/ -->
 
-- 🍓 掘金专栏：https://juejin.cn/user/1679709496157048/posts
+<!-- - 🍓 掘金专栏：https://juejin.cn/user/1679709496157048/posts -->
 
-- 🍓 前端导航：https://www.kwgg2020.com/
-
-- 🍓 以最优惠的方式购买极客时间课程: [涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等](https://github.com/biaochenxuying/preferential-courses)
+<!-- - 🍓 前端导航：https://www.kwgg2020.com/ -->
 
 - 🍉 个人微信：[CB834301747 (夜尽天明)](./images/CB834301747.jpeg)
 
-- 🍉 公众号：[[全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-50b85ba33dd7ba90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)] . [[前端GitHub](https://github.com/FrontEndGitHub/FrontEndGitHub/blob/main/images/FrontEndGitHub.png)]
+- 🍓 以最优惠的方式购买极客时间课程: [涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等](https://github.com/biaochenxuying/preferential-courses)
+
+
+<!-- - 🍉 公众号：[[全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-50b85ba33dd7ba90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)] . [[前端GitHub](https://github.com/FrontEndGitHub/FrontEndGitHub/blob/main/images/FrontEndGitHub.png)]
 
 - 🍓 关注上面公众号，回复「[**电子书**]([/images/book.png](https://upload-images.jianshu.io/upload_images/12890819-860e00b3a4b6c418.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240))」领取 **1000+** 本技术精华书籍，**160+** 本 **7** 分以上的前端精读电子书
 
-- 🍓 回复「[**1024**](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)」领取 2048G 关于 Vue、React、Node 等电商实战视频教程。
+- 🍓 回复「[**1024**](https://mp.weixin.qq.com/s/7f767Y5FHM9i2_GeUSz-Iw)」领取 2048G 关于 Vue、React、Node 等电商实战视频教程。 -->
 
 
-## 主笔
+<!-- ## 主笔
 
 <details>
 <summary>全栈修炼 和 前端GitHub</summary>
@@ -49,7 +50,7 @@
 
 有需要的就来拿吧，**绝对免费，无套路获取**。
 
-</details>
+</details> -->
 
 <!-- | 微信: **CB834301747** | 公众号: **前端GitHub**  | 公众号: **全栈修炼**  |
 | :------: |  :------: | :------: |
