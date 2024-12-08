@@ -18,7 +18,9 @@
 
 - 🍉 个人微信：[CB834301747 (夜尽天明)](./images/CB834301747.jpeg)
 
-- 🍓 以最优惠的方式购买极客时间课程: [涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等](https://github.com/biaochenxuying/preferential-courses)
+- 🍓 GitHub 最全的前端资源汇总仓库: [包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等](https://github.com/FrontEndGitHub/FrontEndGitHub)
+
+<!-- - 🍓 以最优惠的方式购买极客时间课程: [涵盖了后端、架构、前端、移动、人工智能、大数据、产品、运营、运维、测试等](https://github.com/biaochenxuying/preferential-courses) -->
 
 
 <!-- - 🍉 公众号：[[全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-50b85ba33dd7ba90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)] . [[前端GitHub](https://github.com/FrontEndGitHub/FrontEndGitHub/blob/main/images/FrontEndGitHub.png)]
@@ -66,9 +68,12 @@
 <details>
 <summary>More Repositories ...</summary>
 
-<a href="https://github.com/biaochenxuying/preferential-courses">
-  <img alt="biaochenxuying" src="https://github-readme-stats.vercel.app/api/pin/?username=biaochenxuying&repo=preferential-courses&show_owner=true" />
+<a href="https://github.com/biaochenxuying/awesome-books">
+  <img alt="biaochenxuying" src="https://github-readme-stats.vercel.app/api/pin/?username=biaochenxuying&repo=awesome-books&show_owner=true" />
 </a>
+<!-- <a href="https://github.com/biaochenxuying/preferential-courses">
+  <img alt="biaochenxuying" src="https://github-readme-stats.vercel.app/api/pin/?username=biaochenxuying&repo=preferential-courses&show_owner=true" />
+</a> -->
 <a href="https://github.com/biaochenxuying/blog-react-admin">
   <img alt="biaochenxuying" src="https://github-readme-stats.vercel.app/api/pin/?username=biaochenxuying&repo=blog-react-admin&show_owner=true" />
 </a>
